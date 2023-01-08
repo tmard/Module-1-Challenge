@@ -23,7 +23,7 @@ The following charts/tables were created to further evaluate the dataset:
 
 
 ##Report of Data and Statistical Analysis
-Conclusions regarding the crowdfunding campaigns, limitations of the dataset and recommendations for other potential graphs/tables, as well as a statistical analysis of the dataset can be examined in the Excel Crowdfunding.docx file. 
+Conclusions regarding the crowdfunding campaigns, limitations of the dataset and recommendations for other potential graphs/tables, as well as a statistical analysis of the dataset can be examined in the Crowdfunding Report & Statistical Analysis document. 
 
 
 ## References
